@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "♡のさくりふぁいす",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T06:35:35.087122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "♡のさくりふぁいす (feat. べあと)",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_♡のさくりふぁいす_(feat._べあと)_429.txt"
+    }
+  ]
+}
